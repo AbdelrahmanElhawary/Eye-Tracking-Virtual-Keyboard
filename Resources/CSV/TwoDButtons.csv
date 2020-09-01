@@ -1,0 +1,7 @@
+word_suggest_b1,word_suggest_b2,word_suggest_b3,word_suggest_b4,word_suggest_b5,text_to_speech_b,,,,,,,,,,,
+esc_b,f1_b,f2_b,f3_b,f4_b,f5_b,f6_b,f7_b,f8_b,f9_b,f10_b,f11_b,f12_b,home_b,end_b,insert_b,delete_b
+r1_0,r1_1,r1_2,r1_3,r1_4,r1_5,r1_6,r1_7,r1_8,r1_9,r1_10,r1_11,r1_12,back_space_b,,,
+tab_b,r2_0,r2_1,r2_2,r2_3,r2_4,r2_5,r2_6,r2_7,r2_8,r2_9,r2_10,r2_11,r2_12,,,
+caps_lock_b,r3_0,r3_1,r3_2,r3_3,r3_4,r3_5,r3_6,r3_7,r3_8,r3_9,r3_10,enter_b,,,,
+l_shift_b,r4_0,r4_1,r4_2,r4_3,r4_4,r4_5,r4_6,r4_7,r4_8,r4_9,up_b,r_shift_b,,,,
+l_ctrl,win_b,l_alt_b,space_b,r_alt_b,r_ctrl,left_b,down_b,right_b,mouse_b,,,,,,,
